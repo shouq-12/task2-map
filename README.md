@@ -8,7 +8,7 @@
 
 4- do the steps from this website https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/.
 
-5- to draw the semulated map move by using -wdsax-
+5- to draw the simulated map move by using -wdsax-
 
 6- then to save the map do 1 of these 2 lines
 
